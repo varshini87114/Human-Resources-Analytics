@@ -1,2 +1,2 @@
-# Human-Resources-Analytics
-CodeAlpha_Human Resources Analytics
+# Financial-Health-Dashboard
+CodeAlpha_Financial Health Dashboard
